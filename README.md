@@ -17,16 +17,8 @@ I'm a practical and detail-oriented software developer with a deep passion for a
 - **Frameworks**: React, Django, Express  
 - **Databases**: PostgreSQL, MySQL  
 - **DevOps**: AWS, Docker, Terraform, Nginx  
-- **Other Interests**: Algorithms, Data Structures, Machine Learning Fundamentals  
+- **Primary Interests**: Algorithms, Math, Data Science, Neural Networks  
 - **Soft Skills**: Leadership, Collaboration, Problem-Solving, Time Management  
-
----
-
-## 🌟 What Sets Me Apart
-
-- **Passion for Algorithms**: Inspired by the elegance of problem-solving, I strive to design efficient and scalable solutions.  
-- **Fast Learner**: Quickly adapts to new technologies and embraces challenges head-on.  
-- **Machine Learning Aspirations**: Motivated to integrate machine learning into impactful projects, driving innovation and intelligent decision-making.  
 
 ---
 
