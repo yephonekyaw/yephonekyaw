@@ -1,4 +1,4 @@
-# Hi there, I'm Ye Phone Kyaw! 👋
+# Hi there, I'm Ye Phone Kyaw aka Julian! 👋
 
 🎓 **Computer Science Student @ King Mongkut’s University of Technology Thonburi (KMUTT)**  
 🌟 **Junior Full-Stack Developer | Passionate Problem Solver | Aspiring Machine Learning Engineer**
@@ -39,8 +39,7 @@ I'm a practical and detail-oriented software developer with a deep passion for a
 
 ## 📬 Let's Connect
 
-- **Email**: [yephone.kyaw@kmutt.ac.th](mailto:yephone.kyaw@kmutt.ac.th)  
-- **LinkedIn**: [linkedin.com/in/ye-phone-kyaw](#)  
+- **Email**: [yephone.kyaw@kmutt.ac.th](mailto:yephone.kyaw@kmutt.ac.th)
 - **GitHub**: [github.com/yephonekyaw](https://github.com/yephonekyaw)
 
 ---
