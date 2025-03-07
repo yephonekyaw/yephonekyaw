@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 
-I'm a practical and detail-oriented software developer with a deep passion for algorithms and solving complex problems. With a strong foundation in full-stack development, I aim to harness my skills to transition into the field of machine learning eventually. My enthusiasm for exploring new technologies and continuous learning fuels my aspiration to become a machine learning engineer, where I can build systems that empower intelligent decision-making.
+I'm a practical and detail-oriented software developer with a deep passion for algorithms and solving complex problems. With a strong foundation in full-stack development, I aim to harness my skills to eventually transition into the field of machine learning. My enthusiasm for exploring new technologies and continuous learning fuels my aspiration to become a machine learning engineer, where I can build systems that empower intelligent decision-making.
 
 ---
 
@@ -31,8 +31,9 @@ I'm a practical and detail-oriented software developer with a deep passion for a
 
 ## 📬 Let's Connect
 
-- **Email**: [yephone.kyaw@kmutt.ac.th](mailto:yephone.kyaw@kmutt.ac.th)
+- **Email**: [contact.yephonekyaw@gmail.com](mailto:contact.yephonekyaw@gmail.com)
 - **GitHub**: [github.com/yephonekyaw](https://github.com/yephonekyaw)
+- **LinkedIn**: [my-profile](https://www.linkedin.com/in/yephone-kyaw-julian-098459202/)
 
 ---
 
